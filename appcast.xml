@@ -5,27 +5,6 @@
     <link>https://www.hackboard.app</link>
     <description>Updates for Hackboard</description>
     <language>en</language>
-    
-    <item>
-      <title>Version 0.0.3</title>
-      <description><![CDATA[
-<h1 id="changelog-for-hackboard-v0.0.3">Changelog for Hackboard
-v0.0.3</h1>
-<h2 id="whats-new">What’s New</h2>
-<ul>
-<li>Added ‘Text’ keymap type.</li>
-<li>Several bug fixes and improvements.</li>
-</ul>
-      ]]></description>
-      <pubDate>Wed, 23 Jul 2025 10:50:01 +0000</pubDate>
-      <sparkle:version>0.0.3</sparkle:version>
-      <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/hackboard-app/hackboard-releases/releases/download/v0.0.3/hackboard-0.0.3.zip"
-        type="application/octet-stream"
-        sparkle:edSignature="bExQcsuivsVwEnE1j7mGb4W6j6bXYpYSRjVWgZPRhfxeNO3s/jm+wNYybonQxolE76kv9cRGpFQj7EsWfT1HCw==" length="19532123" />
-    </item>
-    
+
   </channel>
 </rss>
